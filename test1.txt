@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is AC49-27D6
+
+ Directory of C:\Users\Nathan\Desktop\MyProject
+
+08/06/2020  09:44 PM    <DIR>          .
+08/06/2020  09:44 PM    <DIR>          ..
+08/06/2020  09:44 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  38,749,335,552 bytes free
