@@ -1,0 +1,12 @@
+ Volume in drive C is OS
+ Volume Serial Number is AC49-27D6
+
+ Directory of C:\Users\Nathan\Desktop\Software folder\Git\MyProject
+
+08/06/2020  11:30 PM    <DIR>          .
+08/06/2020  11:30 PM    <DIR>          ..
+08/06/2020  09:52 PM                22 index.html
+08/06/2020  09:51 PM                 8 test1.txt
+08/06/2020  11:30 PM                 0 test2.txt
+               3 File(s)             30 bytes
+               2 Dir(s)  41,249,996,800 bytes free
